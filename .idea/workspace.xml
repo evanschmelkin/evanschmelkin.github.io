@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f79f3259-d14b-4773-a3b6-d9048560b93f" name="Changes" comment="bootstrap">
+    <list default="true" id="f79f3259-d14b-4773-a3b6-d9048560b93f" name="Changes" comment="style.css">
+      <change afterPath="$PROJECT_DIR$/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,7 @@
       <workItem from="1739232938164" duration="753000" />
       <workItem from="1739233885451" duration="7000" />
       <workItem from="1739465904948" duration="367000" />
-      <workItem from="1739898027246" duration="314000" />
+      <workItem from="1739898027246" duration="694000" />
     </task>
     <task id="LOCAL-00001" summary="showing my TA how cool jetbrains is">
       <option name="closed" value="true" />
@@ -126,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739898317121</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="style.css">
+      <option name="closed" value="true" />
+      <created>1739898363447</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739898363447</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +146,7 @@
     <MESSAGE value="showing my TA how cool jetbrains is" />
     <MESSAGE value="test cool for group" />
     <MESSAGE value="bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap" />
+    <MESSAGE value="style.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="style.css" />
   </component>
 </project>
