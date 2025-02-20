@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f79f3259-d14b-4773-a3b6-d9048560b93f" name="Changes" comment="final test from desktop 9:40pm">
+    <list default="true" id="f79f3259-d14b-4773-a3b6-d9048560b93f" name="Changes" comment="test 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/evanschmelkin/evanschmelkin.github.io.git&quot;,
-    &quot;accountId&quot;: &quot;c5b7ba64-832e-4e66-bd0e-308fe3d0c907&quot;
+    &quot;accountId&quot;: &quot;80a4093b-6fc5-4a26-a8c1-5b04fb7bd218&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -50,7 +50,6 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -63,6 +62,13 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Evan\WebstormProjects\evanschmelkin.github.io" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,6 +84,7 @@
       <workItem from="1739233885451" duration="7000" />
       <workItem from="1739465904948" duration="367000" />
       <workItem from="1739898027246" duration="2551000" />
+      <workItem from="1740070395413" duration="2113000" />
     </task>
     <task id="LOCAL-00001" summary="showing my TA how cool jetbrains is">
       <option name="closed" value="true" />
@@ -159,23 +166,7 @@
       <option name="project" value="LOCAL" />
       <updated>1739992698183</updated>
     </task>
-    <task id="LOCAL-00011" summary="cool test from desktop">
-      <option name="closed" value="true" />
-      <created>1740018766271</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1740018766271</updated>
-    </task>
-    <task id="LOCAL-00012" summary="final test from desktop 9:40pm">
-      <option name="closed" value="true" />
-      <created>1740019270025</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1740019270025</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,8 +180,6 @@
     <MESSAGE value="website with bootstrapping v1" />
     <MESSAGE value="edited javascript" />
     <MESSAGE value="test 2" />
-    <MESSAGE value="cool test from desktop" />
-    <MESSAGE value="final test from desktop 9:40pm" />
-    <option name="LAST_COMMIT_MESSAGE" value="final test from desktop 9:40pm" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 2" />
   </component>
 </project>
