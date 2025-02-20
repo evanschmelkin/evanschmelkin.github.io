@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f79f3259-d14b-4773-a3b6-d9048560b93f" name="Changes" comment="cool test from desktop">
+    <list default="true" id="f79f3259-d14b-4773-a3b6-d9048560b93f" name="Changes" comment="final test from desktop 9:40pm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740018766271</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="final test from desktop 9:40pm">
+      <option name="closed" value="true" />
+      <created>1740019270025</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740019270025</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +190,7 @@
     <MESSAGE value="edited javascript" />
     <MESSAGE value="test 2" />
     <MESSAGE value="cool test from desktop" />
-    <option name="LAST_COMMIT_MESSAGE" value="cool test from desktop" />
+    <MESSAGE value="final test from desktop 9:40pm" />
+    <option name="LAST_COMMIT_MESSAGE" value="final test from desktop 9:40pm" />
   </component>
 </project>
