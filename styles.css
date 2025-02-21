@@ -37,3 +37,27 @@ body {
   width: auto;
   padding: 15px 15px;
 }
+
+#github:hover {
+  background-color: blueviolet;
+
+}
+
+#projectsjumbotron {
+  font-family : "Papyrus", serif;
+}
+
+
+@keyframes redtolimegreen {
+  from {background-color: red;}
+  to {background-color: limegreen;}
+}
+
+/*this is what will be animated */
+#projectscard1 {
+  width: 1000px;
+  height: 100px;
+  background-color: red;
+  animation-name: redtolimegreen;
+  animation-duration: 4s;
+}
