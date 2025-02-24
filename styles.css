@@ -55,7 +55,7 @@ body {
 }
 @keyframes redtolimegreen {
   from {background-color: red;}
-  to {background-color: limegreen;}
+  to {background-color: yellow;}
 }
 
 /*this is what will be animated */
