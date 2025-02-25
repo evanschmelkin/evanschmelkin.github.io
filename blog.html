@@ -1,3 +1,10 @@
+<!--
+Evan Schmelkin
+2/25/2025
+PA2
+Web Development
+blog.html
+This is a New York Yankees Blog, this version is fully bootstrapped -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -12,7 +19,7 @@
 
 <body>
 
-<header>
+<header> <!-- no need to recreate this header area in css -->
     <!-- Image and text -->
     <nav class="navbar navbar-dark bg-dark">
         <a class="navbar-brand" href="index.html">
@@ -45,9 +52,23 @@
     </nav>
 </header>
 
-<div class="jumbotron">
-    <h1 class="display-4">New York Yankees Blog</h1>
-    <p>The New York Yankees have made moves since losing Juan Soto to the New York Mets during the offseason. New signings Cody Bellinger and Paul Goldschmidt will supplement the lineup led by Aaron Judge. Last season, Aaron Judge had the highest Wins above Replacement (WAR) in the American league and the Yankees made it to the World Series, losing to the Los Angeles Dodgers. I plan to go to a bunch of Yankees home games this season. I went to a Yankees game against the 2024 White Sox last year, a team that finished with the most losses since the 1899 Cleveland Spiders.</p>
+<div class="container">
+    <div class="row">
+        <div class="col-sm"> <!-- gotta try to create a version of this but in css -->
+            <h1 class="display-4">New York Yankees Blog</h1>
+
+            <div class="alert alert-primary" role="alert"> <!-- gotta recreate one of these in css too -->
+                The creator of this site is a huge Yankees fan.
+            </div>
+
+            <a class="btn btn-primary btn-lg" id="baseballreference" href="https://www.baseball-reference.com/players/j/judgeaa01.shtml" role="button"><i class="fa-solid fa-baseball-bat-ball"></i> <!-- you can keep the fontawesome, rest has to be changed --> Aaron Judge's Baseball Reference</a>
+
+        </div>
+        <div class="col-sm">
+            <p>The New York Yankees have made moves since losing Juan Soto to the New York Mets during the offseason. New signings Cody Bellinger and Paul Goldschmidt will supplement the lineup led by Aaron Judge. Last season, Aaron Judge had the highest Wins above Replacement (WAR) in the American league and the Yankees made it to the World Series, losing to the Los Angeles Dodgers. I plan to go to a bunch of Yankees home games this season. I went to a Yankees game against the 2024 White Sox last year, a team that finished with the most losses since the 1899 Cleveland Spiders.</p>
+        </div>
+    </div>
 </div>
+
 </body>
 </html>
